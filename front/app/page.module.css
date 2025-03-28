@@ -1,0 +1,16 @@
+main {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.textDiv {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.textDiv h1 {
+  font-size: larger;
+}

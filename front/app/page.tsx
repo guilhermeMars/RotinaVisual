@@ -2,7 +2,7 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-    <main>
+    <main className={styles.mainDiv}>
       <div className={styles.textDiv}>
         <h1>Rotina Visual</h1>
         <h4>Um sistema para auxílio de rotina para neurodiersos</h4>

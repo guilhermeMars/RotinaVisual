@@ -1,11 +1,14 @@
-main {
+.mainDiv {
   margin: auto;
+  padding: 1rem;
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 100vh;
 }
 
 .textDiv {
+  max-width: 30rem;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;

@@ -4,8 +4,8 @@ export default function HomePage() {
   return (
     <>
       <Header />
-      <main className="max-w-6xl mx-auto p-4">
-        <h2 className="text-2xl font-semibold mb-4">Teste</h2>
+      <main>
+        <h2>Teste</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elit dui, bibendum at viverra a, vestibulum non nibh. Morbi ex mi, vehicula sollicitudin fermentum ac, vestibulum sit amet arcu. Sed laoreet ut ipsum eu tempor. Maecenas lobortis, ligula id pharetra condimentum, est lacus tincidunt elit, quis dictum arcu quam eget erat. Sed porttitor porttitor dolor, quis eleifend ex consectetur in. Nulla faucibus massa sit amet tellus euismod, sit amet sagittis metus egestas. Proin in consequat tortor. Praesent feugiat arcu turpis, ut congue enim consectetur volutpat. Phasellus lacus odio, tempor sit amet ultrices in, euismod et elit. Sed quis aliquam ipsum, sed dignissim nunc. Integer ex neque, dapibus ut lorem id, convallis molestie elit. Morbi blandit felis at arcu tempus, vitae suscipit lectus fermentum.
 
 Mauris congue mattis erat placerat placerat. Nunc bibendum tempor neque, vitae egestas arcu consectetur vel. Sed eu risus quis sapien euismod iaculis eu et tellus. Vestibulum a ex egestas, imperdiet velit sit amet, ullamcorper tortor. Vestibulum augue arcu, egestas non auctor nec, pellentesque eu ipsum. Sed non purus faucibus, ultrices ex eget, mollis nibh. Donec dolor massa, vestibulum eu vehicula tempor, faucibus eu nunc. In pulvinar lorem nec felis lobortis vestibulum.
